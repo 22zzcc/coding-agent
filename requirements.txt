@@ -1,0 +1,2 @@
+# 核心零硬依赖（LLM 走标准库 urllib）
+# 三级路由的向量层可选：pip install numpy
